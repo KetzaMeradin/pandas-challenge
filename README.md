@@ -209,3 +209,7 @@ B (+/-)	80–89
 C (+/-)	70–79
 D (+/-)	60–69
 F (+/-)	< 60
+---------------------------------------------------------------------------------
+Resource credits:
+https://github.com/racquesta/PyCitySchools/blob/master/PyCitySchools.ipynb
+https://github.com/shrawantee/Pandas-PyCitySchools/blob/master/PyCitySchools/PyCitySchools_DS_HW4.ipynb
